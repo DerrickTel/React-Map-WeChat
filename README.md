@@ -1,0 +1,4 @@
+仿微信发送定位做的一个发送定位
+与APP交互用的是jsbridge
+与网页交互用的是url
+基础组件是ant-design-mobile和高德地图
